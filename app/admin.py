@@ -5,3 +5,4 @@ admin.site.register(Categoria)
 admin.site.register(Produto)
 
 # Register your models here.
+#
